@@ -12,6 +12,10 @@
 
 # API Services
 
-## 1. TO export the Data
+## 1. To export the Data
 
-    ### http://localhost:3001/exportdata
+    ## http://localhost:3001/exportdata
+
+## 2. Get the Revenue for Each Product
+
+    ## http://localhost:3001/revenue/byproduct

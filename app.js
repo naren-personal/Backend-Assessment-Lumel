@@ -8,6 +8,6 @@ app.get("/", (req, res) => {
   res.status(200).json({ message: "Server Running" });
 });
 
-app.listen(3000, () => {
-  console.log("[Server Running on 3000]");
+app.listen(3001, () => {
+  console.log("[Server Running on 3001]");
 });
