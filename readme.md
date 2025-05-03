@@ -19,3 +19,7 @@
 ## 2. Get the Revenue for Each Product
 
     http://localhost:3001/revenue/byproduct
+
+## 3. Get the Top Qyt List BySold
+
+    http://localhost:3001/top/qtybysold
