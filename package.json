@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "dependencies": {
+    "csv-parser": "^3.2.0",
+    "express": "^5.1.0",
+    "mongodb": "^6.16.0"
+  }
+}

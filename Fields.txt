@@ -1,0 +1,40 @@
+Order ID,
+Product ID,
+Customer ID,
+Product Name,
+Category,
+Region,
+Date of Sale,
+Quantity Sold,
+Unit Price,
+Discount,
+Shipping Cost,
+Payment Method,
+Customer Name,
+Customer Email,
+Customer Address
+
+//Orders
+Order ID,
+Product ID,
+Customer ID,
+Region,
+Date of Sale,
+Quantity Sold,
+Discount,
+Shipping Cost,
+Payment Method,
+
+//Products
+Product ID,
+Product Name,
+Category
+Unit Price,
+
+//Customers
+Customer ID,
+Customer Name,
+Customer Email,
+Customer Address
+
+

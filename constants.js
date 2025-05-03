@@ -1,0 +1,9 @@
+const CUSTOMERS_COLLECTION = "Customers";
+const PRODUCTS_COLLECTION = "Products";
+const ORDERS_COLLECTION = "Orders";
+
+module.exports = {
+  CUSTOMERS_COLLECTION,
+  PRODUCTS_COLLECTION,
+  ORDERS_COLLECTION,
+};
